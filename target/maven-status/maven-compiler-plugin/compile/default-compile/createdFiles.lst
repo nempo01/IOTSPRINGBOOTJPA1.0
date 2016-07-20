@@ -1,0 +1,4 @@
+com\iot\jpa\rest\ClientRepository.class
+com\iot\jpa\entity\Purchase.class
+com\iot\jpa\boot\Application.class
+com\iot\jpa\entity\Customer.class
